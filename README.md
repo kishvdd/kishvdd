@@ -1,5 +1,4 @@
 - 🫥 Hi, I’m **[Kish](https://github.com/kishvdd)**
-- ✍🏿 Find my web 3 writing over at **[🪞](mirror.xyz/kishd.eth)**
 <hr>
 <p align="center">
   <i>Let's connect and chat! Open to anything under the sun.</i>
