@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @kishvdd
-- 👀 I’m interested in Marketing and DAOs
-- ✍🏿 Writing tech blog posts over at **[🪞](mirror.xyz/kishd.eth)**
+- 👋 Hi, I’m **[Kish](https://github.com/kishvdd)**
+- ✍🏿 Writing about DAOs, web 3 and marketing over at **[🪞](mirror.xyz/kishd.eth)**
 <hr>
 <p align="center">
   <i>Let's connect and chat! Open to anything under the sun.</i>
