@@ -1,4 +1,4 @@
-- 👋 Hi, I’m **[Kish](https://github.com/kishvdd)**
+- 🫥 Hi, I’m **[Kish](https://github.com/kishvdd)**
 - ✍🏿 Writing about DAOs, web 3 and marketing over at **[🪞](mirror.xyz/kishd.eth)**
 <hr>
 <p align="center">
